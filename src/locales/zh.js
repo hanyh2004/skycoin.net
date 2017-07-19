@@ -50,7 +50,7 @@ export default {
       buy: '购买天空币',
       wallet: {
         get: '下载钱包',
-        blurb: '钱包让您安全地持有和管理天空币资产。{break}快速、安全、免费。',
+        blurb: '天空币驱动着新一代互联网革命。{break}行动起来吧!',
       },
       announcement: '7月24日,1%(1百万枚)的天空币将以0.002 BTC / SKY的固定价格出售',
     },

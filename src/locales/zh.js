@@ -130,16 +130,16 @@ export default {
   },
   distribution: {
     title: '天空币分发活动',
-    description: '在 {date} 日, 1%(1百万枚)的天空币将以0.002 BTC / SKY的固定价格出售',
+    description: ' {date} 日, 1%(1百万枚)的天空币将以0.002 BTC / SKY的固定价格出售',
     hero: {
       heading: '天空币分发活动',
-      preEvent: '在{begin}, 1%(1百万枚)的天空币将以0.002 BTC / SKY的固定价格出售。 此次分发活动将在{end}截止,或者一百万枚天空币售完即截止<br /><br />回到<a href="/distribution">skycoin.net/distribution</a>来参与天空币分发活动',
+      preEvent: '在{begin}, 1%(1百万枚)的天空币将以0.002 BTC / SKY的固定价格出售。 此次分发活动将在{end}或者一百万枚天空币售完后即截止<br /><br />回到<a href="/cn/distribution">skycoin.net/distribution</a>来参与天空币分发活动',
       postEvent: '天空币分发活动在{date}终止,您可以加入天空币的Telegram社区来跟进新的币分发活动。',
       participate: '参加',
     },
     countdown: {
-      preEvent: '本次分发活动将在 <strong>{date}</strong>中午(格林尼治时间,北京时间+8小时)进行',
-      eventInProgress: '本次分发活动将在<strong>{date}</strong>中午(格林尼治时间,北京时间+8小时)终止',
+      preEvent: '本次分发活动将在北京时间<strong>{date}</strong>晚上8点开始',
+      eventInProgress: '本次分发活动将在北京时间<strong>{date}</strong>晚上8点结束',
       days: '天',
       hours: '小时',
       minutes: '分钟',
